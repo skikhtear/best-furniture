@@ -1,0 +1,273 @@
+[
+    {
+        "name":"BED ALL CREAMY WALNUT",
+        "img":"https://otobi.com/wp-content/uploads/BKDP012WDBO028.jpeg",
+        "price":75000,
+        "category":"home"
+    },
+    {
+        "name":"BED ALL CREAMY WALNUT",
+        "img":"https://otobi.com/wp-content/uploads/BKDP012WDBO028.jpeg",
+        "price":75000,
+        "category": "home"
+    },
+    {
+        "name":"BED ALL CREAMY WALNUT",
+        "img":"https://otobi.com/wp-content/uploads/BKDP012WDBO028.jpeg",
+        "price":75000,
+        "category": "home"
+    },
+    {
+       "name": "BED DOUBLE ALL OAK",
+       "img": "https://otobi.com/wp-content/uploads/BDDB016LBBI024.jpeg",
+       "price": 26000,
+    "category": "home"
+    },
+    {
+        "name": "TWO DOOR CUPBOARD",
+        "img": "https://otobi.com/wp-content/uploads/CBDA026WDBN027.jpeg",
+        "price": 52000,
+        "category": "home"
+    },
+    {
+        "name": "TWO DOOR CUPBOARD",
+        "img": "https://otobi.com/wp-content/uploads/CBDA026WDBN027.jpeg",
+        "price": 52000,
+        "category": "home"
+    },
+    {
+        "name":"TWO DOOR CUPBOARD",
+        "img":"https://otobi.com/wp-content/uploads/CBDA026WDBN027.jpeg",
+        "price":52000,
+        "category": "home"
+    },
+    {
+        "name": "BED DOUBLE ALL OAK",
+        "img": "https://otobi.com/wp-content/uploads/BDDB016LBBI024.jpeg",
+        "price": 26000,
+        "category": "home"
+    },
+    {
+        "name": "BED DOUBLE ALL OAK",
+        "img": "https://otobi.com/wp-content/uploads/BDDB016LBBI024.jpeg",
+        "price": 26000,
+        "category": "home"
+    },
+    {
+        "name": "THREE DOOR CUPBOARD",
+        "img": "https://otobi.com/wp-content/uploads/CBDA025WDBO028.jpeg",
+        "price": 68000,
+        "category": "home"
+    },
+    {
+        "name": "THREE DOOR CUPBOARD",
+        "img": "https://otobi.com/wp-content/uploads/CBDA025WDBO028.jpeg",
+        "price": 68000,
+        "category": "home"
+    },
+    {
+        "name": "BED DOUBLE ALL BLACK BEECH",
+        "img": "https://otobi.com/wp-content/uploads/BDDP008LBAA002.jpeg",
+        "price": 30000,
+        "category": "home"
+    },
+    {
+        "name": "BED DOUBLE ALL BLACK BEECH",
+        "img": "https://otobi.com/wp-content/uploads/BDDP008LBAA002.jpeg",
+        "price": 30000,
+        "category": "home"
+    },
+    {
+        "name": "CONFERENCE TABLE",
+        "img": "https://otobi.com/wp-content/uploads/TCOC025WDAA001.jpeg",
+        "price": 89300,
+        "category": "office"
+    },
+    {
+        "name": "CONFERENCE TABLE",
+        "img": "https://otobi.com/wp-content/uploads/TCOC025WDAA001.jpeg",
+        "price": 89300,
+        "category": "office"
+    },
+    {
+        "name": "CONFERENCE TABLE",
+        "img": "https://otobi.com/wp-content/uploads/TCOC025WDAA001.jpeg",
+        "price": 89300,
+        "category": "office"
+    },
+    {
+        "name": "CONFERENCE TABLE",
+        "img": "https://otobi.com/wp-content/uploads/TCOC025WDAA001.jpeg",
+        "price": 89300,
+        "category": "office"
+    },
+    {
+        "name": "MD TABLE ALL CREAMY WALNUT",
+        "img": "https://otobi.com/wp-content/uploads/TMOP024WDBO028.jpeg",
+        "price": 64500,
+        "category": "office"
+    },
+    {
+        "name": "MD TABLE ALL CREAMY WALNUT",
+        "img": "https://otobi.com/wp-content/uploads/TMOP024WDBO028.jpeg",
+        "price": 64500,
+        "category": "office"
+    },
+    {
+        "name": "MD TABLE ALL CREAMY WALNUT",
+        "img": "https://otobi.com/wp-content/uploads/TMOP024WDBO028.jpeg",
+        "price": 64500,
+        "category": "office"
+    },
+    {
+        "name": "TABLE CHIEF EXECUTIVE ALL CHESTNUT",
+        "img": "https://otobi.com/wp-content/uploads/TMOP012WDBN027.jpeg",
+        "price": 159500,
+        "category": "office"
+    },
+    {
+        "name": "TABLE CHIEF EXECUTIVE ALL CHESTNUT",
+        "img": "https://otobi.com/wp-content/uploads/TMOP012WDBN027.jpeg",
+        "price": 159500,
+        "category": "office"
+    },
+    {
+        "name": "TABLE CHIEF EXECUTIVE ALL CHESTNUT",
+        "img": "https://otobi.com/wp-content/uploads/TMOP012WDBN027.jpeg",
+        "price": 159500,
+        "category": "office"
+    },
+    {
+        "name": "MEETING TABLE, GLASS TOP, SS BASE",
+        "img": "https://otobi.com/wp-content/uploads/TCOR002MSGW009.jpeg",
+        "price": 20000,
+        "category": "office"
+    },
+    {
+        "name": "MEETING TABLE, GLASS TOP, SS BASE",
+        "img": "https://otobi.com/wp-content/uploads/TCOR002MSGW009.jpeg",
+        "price": 20000,
+        "category": "office"
+    },
+    {
+        "name": "MEETING TABLE, GLASS TOP, SS BASE",
+        "img": "https://otobi.com/wp-content/uploads/TCOR002MSGW009.jpeg",
+        "price": 20000,
+        "category": "office"
+    },
+    {
+        "name": "3-SEATED WAITING CHAIR ALL BLACK",
+        "img": "https://otobi.com/wp-content/uploads/CFWP005MSAA001.jpeg",
+        "price": 26000,
+        "category": "office"
+    },
+    {
+        "name": "3-SEATED WAITING CHAIR ALL BLACK",
+        "img": "https://otobi.com/wp-content/uploads/CFWP005MSAA001.jpeg",
+        "price": 26000,
+        "category": "office"
+    },
+    {
+        "name": "3-SEATED WAITING CHAIR ALL BLACK",
+        "img": "https://otobi.com/wp-content/uploads/CFWP005MSAA001.jpeg",
+        "price": 26000,
+        "category": "office"
+    },
+    {
+        "name": "VISITOR CHAIR",
+        "img": "https://otobi.com/wp-content/uploads/CFVP059FFAO017.jpeg",
+        "price": 10000,
+        "category": "office"
+    },
+    {
+        "name": "VISITOR CHAIR",
+        "img": "https://otobi.com/wp-content/uploads/CFVP059FFAO017.jpeg",
+        "price": 10000,
+        "category": "office"
+    },
+    {
+        "name": "VISITOR CHAIR",
+        "img": "https://otobi.com/wp-content/uploads/CFVP059FFAO017.jpeg",
+        "price": 10000,
+        "category": "office"
+    },
+    {
+        "name": "GYNAECOLOGICAL BED ALL BLACK",
+        "img": "https://otobi.com/wp-content/uploads/HBWP005SSAA001.jpeg",
+        "price": 29000,
+        "category": "hospital"
+    },
+    {
+        "name": "GYNAECOLOGICAL BED ALL BLACK",
+        "img": "https://otobi.com/wp-content/uploads/HBWP005SSAA001.jpeg",
+        "price": 29000,
+        "category": "hospital"
+    },
+    {
+        "name": "GYNAECOLOGICAL BED ALL BLACK",
+        "img": "https://otobi.com/wp-content/uploads/HBWP005SSAA001.jpeg",
+        "price": 29000,
+        "category": "hospital"
+    },
+    {
+        "name": "ICU BED DEEP GREY-L.GREY",
+        "img": "https://otobi.com/wp-content/uploads/HBWP004MSAJ004.jpeg",
+        "price": 129000,
+        "category": "hospital"
+    },
+    {
+        "name": "ICU BED DEEP GREY-L.GREY",
+        "img": "https://otobi.com/wp-content/uploads/HBWP004MSAJ004.jpeg",
+        "price": 129000,
+        "category": "hospital"
+    },
+    {
+        "name": "HOSPITAL BED ALL L.GREY",
+        "img": "https://otobi.com/wp-content/uploads/HBWP028MSAD004.jpeg",
+        "price": 40000,
+        "category": "hospital"
+    },
+    {
+        "name": "HOSPITAL BED ALL L.GREY",
+        "img": "https://otobi.com/wp-content/uploads/HBWP028MSAD004.jpeg",
+        "price": 40000,
+        "category": "hospital"
+    },
+    {
+        "name": "HOSPITAL BED ALL L.GREY",
+        "img": "https://otobi.com/wp-content/uploads/HBWP028MSAD004.jpeg",
+        "price": 40000,
+        "category": "hospital"
+    },
+    {
+        "name": "OVER BED TABLE L.GRAY-WHITE",
+        "img": "https://otobi.com/wp-content/uploads/HTWE008MSAD002.jpeg",
+        "price": 10000,
+        "category": "hospital"
+    },
+    {
+        "name": "OVER BED TABLE L.GRAY-WHITE",
+        "img": "https://otobi.com/wp-content/uploads/HTWE008MSAD002.jpeg",
+        "price": 10000,
+        "category": "hospital"
+    },
+    {
+        "name": "OVER BED TABLE L.GRAY-WHITE",
+        "img": "https://otobi.com/wp-content/uploads/HTWE008MSAD002.jpeg",
+        "price": 10000,
+        "category": "hospital"
+    },
+    {
+        "name": "SALINE STAND ALL SS",
+        "img": "https://otobi.com/wp-content/uploads/HSMP036SSAO009.jpeg",
+        "price": 12000,
+        "category": "hospital"
+    },
+    {
+        "name": "SALINE STAND ALL SS",
+        "img": "https://otobi.com/wp-content/uploads/HSMP036SSAO009.jpeg",
+        "price": 12000,
+        "category": "hospital"
+    }
+
+]
